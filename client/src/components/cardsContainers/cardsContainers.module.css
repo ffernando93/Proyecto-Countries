@@ -1,0 +1,10 @@
+.cartas{
+    min-height: 150px;
+    width: 200px;
+    display: flex;
+    padding: 50px;
+    gap: 1rem;
+    background-color: mediumturquoise;
+    margin: 30px;
+    flex-direction:column;
+}
